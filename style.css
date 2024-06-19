@@ -1,0 +1,10 @@
+div{
+    width: 230px;
+    height: 297px;
+    border: 2px solid #EBEBEB;
+    overflow-x: scroll;
+    float: left;
+}
+img{
+    float: right;
+}
